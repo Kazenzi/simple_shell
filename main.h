@@ -65,3 +65,4 @@ char **args_constructor(char *buffer);
 void validagetline(char *buffer, int len, char **args, char **env_args);
 int notty(char **av __attribute__((unused)));
 #endif /*SIMPLESHELL*/
+
