@@ -3,7 +3,7 @@
  * main - Entry point of Shell
  * @ac: Argument counter
  * @av: Argument values
- * Return: Exit if success
+ * Return: Exit if success = 0
 */
 
 int main(int ac __attribute__((unused)), char **av __attribute__((unused)))
